@@ -1,7 +1,7 @@
 # Holistic React Native Hotel booking application template – free version.
 
 
-[Premium Version] (https://market.nativebase.io/view/react-native-holistic-hotel-app-theme?affiliate_code=27171700-ALE-663357) + 6 month support.
+[Premium Version](https://market.nativebase.io/view/react-native-holistic-hotel-app-theme?affiliate_code=27171700-ALE-663357) + 6 month support.
 
 React Native UI kit for creating application for Hotel &amp; booking system. Inside, you will find all the necessary screens to launch Booking application in the shortest time. It can helps you save more than 1000 hours of development.  All screens are adapted to create an application based on React Native. All elements has a best practice with mobile UI/UX. Use custom components and deploy it to your project easily. Different fonts used for iOS and Android: SF PRO DISPLAY for iOS and Roboto for Android.
 
